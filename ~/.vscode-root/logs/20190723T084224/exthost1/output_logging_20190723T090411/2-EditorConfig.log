@@ -1,0 +1,80 @@
+Initializing document watcher...
+Detected change in configuration: {}
+tabione-front/routes/web.php: {}
+tabione-front/routes/web.php: Using EditorConfig core...
+tabione-front/app/Http/Controllers/ReserveController.php: {}
+tabione-front/routes/web.php: {}
+tabione-front/app/Http/Controllers/ReserveController.php: {}
+tabione-front/resources/views/reserve/userInput.blade.php: {}
+tabione-front/resources/views/reserve/userInput.blade.php: {}
+tabione-front/app/Providers/AppServiceProvider.php: {}
+tabione-front/app/Providers/AppServiceProvider.php: Using EditorConfig core...
+tabione-front/app/Providers/AppServiceProvider.php: Using EditorConfig core...
+tabione-front/app/Providers/AppServiceProvider.php: Using EditorConfig core...
+tabione-front/app/Providers/AppServiceProvider.php: {}
+tabione-front/routes/web.php: {}
+tabione-front/routes/web.php: {}
+tabione-front/app/Http/Controllers/Auth/LoginController.php: {}
+tabione-front/app/Http/Controllers/Auth/LoginController.php: {}
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: Using EditorConfig core...
+resources/assets/js/vue/components/member/LoginForm.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/member/LoginForm.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: Using EditorConfig core...
+resources/assets/js/vue/components/member/LoginForm.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/member/LoginForm.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: Using EditorConfig core...
+resources/assets/js/vue/components/member/LoginForm.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/member/LoginForm.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: Using EditorConfig core...
+resources/assets/js/vue/components/member/LoginForm.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/member/LoginForm.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/app/Providers/AppServiceProvider.php: {}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/member/LoginForm.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: Using EditorConfig core...
+resources/assets/js/vue/components/booking/LoginBooking.vue: setEndOfLine(LF)
+resources/assets/js/vue/components/booking/LoginBooking.vue: editor.action.trimTrailingWhitespace
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
+tabione-front/resources/assets/js/vue/components/booking/LoginBooking.vue: {"insertSpaces":true,"tabSize":2}
